@@ -1,0 +1,7 @@
+node_modules
+.env
+.DS_Store
+
+# cypress result
+.mp4
+.png
